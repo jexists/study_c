@@ -10,9 +10,9 @@ int main() {
     area = radius * radius * PI;
     circumference = radius * 2 * PI;
 
-    printf("¹İÁö¸§: %d\n", radius);
-    printf("¿ø³ĞÀÌ: %.2f\n", area);
-    printf("¿øµÑ·¹: %.2f\n", circumference);
+    printf("ë°˜ì§€ë¦„: %d\n", radius);
+    printf("ë„“ì´: %.2f\n", area);
+    printf("ì›ë‘˜ë ˆ: %.2f\n", circumference);
 
     return 0;
 }
