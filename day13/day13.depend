@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1628072354 source:d:\切积规\jexists\clang\day13\ex01.c
+	<stdio.h>
+
+1628076312 source:d:\切积规\jexists\clang\day13\ex03.c
+	<stdio.h>
+
+1628077383 source:d:\切积规\jexists\clang\day13\ex04.c
+	<stdio.h>
+
+1628077390 source:d:\切积规\jexists\clang\day13\ex05.c
+	<stdio.h>
+
+1628077806 source:d:\切积规\jexists\clang\day13\ex06.c
+	<stdio.h>
+
+1628078266 source:d:\切积规\jexists\clang\day13\ex07.c
+	<stdio.h>
+
+1628078125 source:d:\切积规\jexists\clang\day13\ex08.c
+
+1628079792 source:d:\切积规\jexists\clang\day13\ex09.c
+	<stdio.h>
+	<string.h>
+
+1628081250 source:d:\切积规\jexists\clang\day13\ex10.c
+	<stdio.h>
+	<string.h>
+
