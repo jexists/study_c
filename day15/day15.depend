@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1628506782 source:d:\ÇÐ»ý¹æ\jexists\clang\day15\ex02.c
+	<stdio.h>
+	<string.h>
+	<stdbool.h>
+
