@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1629196735 source:d:\切积规\jexists\clang\day20\ex01.cpp
+	<iostream>
+	<cstring>
+
+1629200233 source:d:\切积规\jexists\clang\day20\ex05.cpp
+	<iostream>
+
+1629201482 source:d:\切积规\jexists\clang\day20\ex06.cpp
+	<iostream>
+	<iomanip>
+
